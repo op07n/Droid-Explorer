@@ -1,3 +1,5 @@
+Duplicate of https://github.com/Jonatino/Droid-Explorer
+
 # Droid-Explorer
 _Kotlin Based Cross-Platform Android File Manager_
 
